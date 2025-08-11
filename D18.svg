@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="12" height="12">
+	<title>D-18</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAAXNSR0IB2cksfwAAABVQTFRFKCgo////HSAh/oAZ/oAZMjAv6+K77E+c6gAAAAd0Uk5TAAD/AP///5++C8YAAABiSURBVHicRY07DoAgEAXfht4VtlcKeyXe/wiGI3gCAnsAVAqC3STvMwSQ5ZJB5oAuitrgFY5zJfEakLTBKqwcJxIbWidlcic73HzRFtTj0fTDiEbZ7H1ujn44FEMKWOJc8AEGwDK7+78eTwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
